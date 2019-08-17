@@ -10,7 +10,12 @@ p {
   color: #848484;
 }
 
-.jumbotron h1, .jumbotron p {
+/* ------------- Navigation --------- */
+.navbar {
+	margin-bottom: 0px;
+}
+
+.jumbotron h1, .jumbotron p, .navbar-light .navbar-brand {
   color: #f26c4f;
 }
 
