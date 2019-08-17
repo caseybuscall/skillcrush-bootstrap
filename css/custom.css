@@ -1,0 +1,25 @@
+body {
+  background-color: #f9f9f9;
+}
+
+h1 {
+  color: #f26c4f;
+}
+
+p {
+  color: #848484;
+}
+
+.jumbotron h1, .jumbotron p {
+  color: #f26c4f;
+}
+
+.btn-custom {
+  background-color: #f26c4f;
+  color: #fff;
+}
+
+.btn-custom:hover {
+  color: #fff;
+  background-color: #ce583e;
+}
